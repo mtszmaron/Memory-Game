@@ -20,7 +20,7 @@ Memory Game is a web-based game that tests and improves players' memory skills. 
 
 ## **Installation**
 
-1. Clone the repository: git clone https://github.com/your-username/memory-game.git
+1. Clone the repository: git clone https://github.com/mtszmaron/Memory-Game.git
 
 2. Navigate to the project directory: cd memory-game
 
